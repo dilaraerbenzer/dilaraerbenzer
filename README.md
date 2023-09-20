@@ -21,7 +21,7 @@ I'm Dilara, a freshman Computer Science student at Bilkent University with a pas
 
 ### 🧪 Chemistry Meets Code
 
-I'm on a mission to combine my love for chemistry and coding. Currently working on [insert your current chemistry-related project here]. Stay tuned for some electrifying results!
+I'm on a mission to combine my love for chemistry and coding. Currently working on learning basic Java for now. Stay tuned for some electrifying results!
 
 ## Let's Connect
 
