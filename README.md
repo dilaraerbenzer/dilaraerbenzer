@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hello! I am a freshman CS student at Bilkent University. My aspiration is to become an AI developer.
+
 
 <!--
 **dilaraerbenzer/dilaraerbenzer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
