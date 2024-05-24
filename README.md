@@ -25,6 +25,6 @@ I'm on a mission to combine my love for chemistry and coding. Currently working 
 
 ## Let's Connect
 
-I'm always eager to connect with fellow CS students, aspiring Java developers, and chemistry enthusiasts. Don't hesitate to reach out via [email](mailto:dilaraerbenzer.ug.bilkent.edu.tr) or connect with me on [Instagram](https://www.instagram.com/dilaraxqw/).
+I'm always eager to connect with fellow CS students, aspiring Java developers, and chemistry enthusiasts. Don't hesitate to reach out via [email](mailto:dilaraerbenzer.ug.bilkent.edu.tr).
 
 Let's write some code and uncover the mysteries of chemistry together! 💡🌌
