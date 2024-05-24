@@ -7,7 +7,6 @@ I'm Dilara, a freshman Computer Science student at Bilkent University with a pas
 - 🎓 Studying Computer Science at Bilkent University (1/4)
 - ☕ Java Enthusiast (in the Making)
 - 🧪 Chemistry Aficionado
-- 📸 Follow me on Instagram: [@dilaraxqw](https://www.instagram.com/dilaraxqw/)
 
 ## Coding with Chemistry
 
@@ -17,7 +16,7 @@ I'm Dilara, a freshman Computer Science student at Bilkent University with a pas
 
 - [**JavaChemistrySimulator**](https://github.com/dilaraxqw/JavaChemistrySimulator): A Java application that simulates chemical reactions and explores the behavior of molecules. Watch chemistry come alive in your code!
 
-- [**ChemicalEquationBalancer**](https://github.com/dilaraxqw/ChemicalEquationBalancer): A handy Java tool for balancing chemical equations. Say goodbye to those tedious manual calculations!
+- [**ChemicalEquationBalancer**](https://github.com/dilaraerbenzer/ChemicalEquationBalancer): A handy Java tool for balancing chemical equations. Say goodbye to those tedious manual calculations!
 
 ### 🧪 Chemistry Meets Code
 
