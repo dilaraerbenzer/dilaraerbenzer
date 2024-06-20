@@ -1,6 +1,6 @@
 # Hello, World! 👋
 
-I'm Dilara, a freshman Computer Science student at Bilkent University with a passion for chemistry and a budding Java developer. Welcome to my digital laboratory! 🔬
+I'm Dilara, a sophomore Computer Science student at Bilkent University with a passion for chemistry and a budding Java developer. Welcome to my digital laboratory! 🔬
 
 ## About Me
 
