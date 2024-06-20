@@ -4,7 +4,7 @@ I'm Dilara, a freshman Computer Science student at Bilkent University with a pas
 
 ## About Me
 
-- 🎓 Studying Computer Science at Bilkent University (1/4)
+- 🎓 Studying Computer Science at Bilkent University (2/4)
 - ☕ Java Enthusiast (in the Making)
 - 🧪 Chemistry Aficionado
 
