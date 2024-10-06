@@ -1,6 +1,8 @@
 I'm Dilara, a sophomore Computer Engineering student at Bilkent University with a passion for computer hardware and Java/C++. 
 
-- 🎓 Studying Computer Science at Bilkent University (2/4)
+### 👋 About Me
+
+- 🎓 Studying Computer Engineering at Bilkent University (2/4)
 - ☕ Java Enthusiast
 - © C++ Connoisseur (in the making)
 
