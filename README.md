@@ -1,14 +1,10 @@
-I'm Dilara, a sophomore Computer Engineering student at Bilkent University with a passion for computer hardware and Java/C++. 
+I'm Dilara, a junior Computer Engineering student at Bilkent University with a passion for computer hardware and game development. 
 
-### 👋 About Me
+## About Me
 
-- 🎓 Studying Computer Engineering at Bilkent University (3/4)
-- ☕ Java Enthusiast
-- © C++ Connoisseur (in the making)
-
-### 💻 Future Java Projects (for now, just plans)
-
-- [**ChemicalEquationBalancer**](https://github.com/dilaraerbenzer/ChemicalEquationBalancer): A handy Java tool for balancing chemical equations. Say goodbye to those tedious manual calculations!
+- Studying Computer Engineering at Bilkent University (3/4)
+- Proficiency in Java, C++, C#, Python, SystemVerilog, MIPS Assembly
+- Multiple games developed (individual/teamwork)
 
 ## Let's Connect
 
