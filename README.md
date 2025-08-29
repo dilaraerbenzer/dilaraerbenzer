@@ -8,5 +8,5 @@ I'm Dilara, a junior Computer Engineering student at Bilkent University with a p
 
 ## Let's Connect
 
-I'm always eager to connect with fellow CS students, aspiring Java developers, and chemistry enthusiasts. Don't hesitate to reach out via [email](mailto:dilaraerbenzer.ug.bilkent.edu.tr).
+I'm always eager to connect with fellow CS students, aspiring developers, and chemistry enthusiasts. Don't hesitate to reach out via [email](mailto:dilaraerbenzer.ug.bilkent.edu.tr).
 
